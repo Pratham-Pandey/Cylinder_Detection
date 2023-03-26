@@ -10,7 +10,7 @@ This model can be intigrated with other Computer Vision based systems to check f
 It can be used at Cylinder Reffiling Centers to inspect the cylinder along with refilling.
 
 ## How?
-The model is trained to detect cylinder using an Object Deection Method.
+The model is trained to detect cylinder by applying **Transfer Learning** on a pre-trained object deection model downloaded **Tensorflow Model Zoo**.
 
 ## Results
 https://user-images.githubusercontent.com/85839299/227761496-5878103c-5bd4-4b22-a820-182bd905baf0.mp4
