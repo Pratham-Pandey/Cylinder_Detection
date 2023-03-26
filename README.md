@@ -4,7 +4,7 @@
 The objective of the project is to detect cylinder from a video or a live video stream. This Repository contains the source code file and an output video of the Cylinder Detection Problem.  
 
 ## Why?
-This model can be intigrated with other Computer Vision based systems to check for Defects, Lekage, damage etc in a gas cylinder
+This model can be intigrated with other Computer Vision based systems to check for Defects, Lekage, damage etc in a gas cylinder preventing accidents.
 
 ## Who? 
 It can be used at Cylinder Reffiling Centers to inspect the cylinder along with refilling.
