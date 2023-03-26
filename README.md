@@ -13,7 +13,7 @@ It can be used at Cylinder Reffiling Centers to inspect the cylinder along with 
 The model is trained to detect cylinder by applying **Transfer Learning** on a pre-trained object detection model downloaded **Tensorflow Model Zoo**.
 
 ## Installation
-To test out the model, you can download the *new.ipynb* file and run it on *Collab* or *Jupyter Notebook* provided you have a video of cylinder :+1: 😁.
+To test out the model, you can download the *new.ipynb* file and run it on *Collab* or *Jupyter Notebook* provided you have a video of cylinder 😁.
 
 ## Results
 https://user-images.githubusercontent.com/85839299/227761496-5878103c-5bd4-4b22-a820-182bd905baf0.mp4
